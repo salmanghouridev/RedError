@@ -1,5 +1,4 @@
-// import '../styles/globals.css'.  I changed the CSS styling to SCSS which is a superset of CSS
-import '../styles/globals.scss'
+import '../styles/globals.css'. 
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
